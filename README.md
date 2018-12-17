@@ -22,5 +22,7 @@ Enjoy :)
 ## Controls
 
 Enter - start game
+
 A-D chop left / right
+
 Q - exit game
