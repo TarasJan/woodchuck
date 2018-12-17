@@ -1,11 +1,11 @@
 # woodchuck
 Woodchuck - a Pyxel made tree cutting simulator
 
+![Screenshot](screenshot.PNG)
+
 This piece of code is what you can cook up in a few moments with @kitao's excellent Pyxel - minimalistic game engine:
 
 https://github.com/kitao/pyxel
-
-![Screenshot](screenshot.PNG)
 
 ## Installation
 
